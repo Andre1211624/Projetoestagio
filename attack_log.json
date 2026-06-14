@@ -1,0 +1,1 @@
+{"timestamp_start": "2026-06-14T17:56:52.776982", "timestamp_end": "2026-06-14T17:57:04.606241", "attack": "Network Scan", "variant": "Ping-Sweep", "target": "192.168.1.1", "pcap_generated": "ataque_Ping-Sweep_1781456212.pcap", "status": "SUCCESS"}
